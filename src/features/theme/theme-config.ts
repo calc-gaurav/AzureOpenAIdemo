@@ -1,5 +1,5 @@
-export const AI_NAME = "CALCGroup Azure OpenAI Demo";
-export const AI_DESCRIPTION = "This is a test prototype of Azure OpenAI private GPT chat.";
+export const AI_NAME = "CALCGroup AI";
+export const AI_DESCRIPTION = "This is a test prototype for demo of Azure OpenAI private GPT chat.";
 export const CHAT_DEFAULT_PERSONA = AI_NAME + " default";
 
 export const CHAT_DEFAULT_SYSTEM_PROMPT = `You are a friendly ${AI_NAME} AI assistant. You must always return in markdown format.
